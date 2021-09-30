@@ -1,0 +1,16 @@
+.comment-user-name {
+    color: #2b2bdd;
+}
+
+.comment-reply-button, .comment-like-button {
+    cursor: pointer;
+    color: #4949f3;
+    margin-left: 3px;
+}
+p {
+    margin: 5px 0;
+}
+
+.comment-container {
+    margin-top: 20px;
+}
